@@ -1,0 +1,227 @@
+.menu a {
+	color: black;
+	text-decoration: none;
+	margin: 5%;
+}
+
+.menu {
+	text-align: center;
+	padding: 5px;
+	position: fixed;
+	width: 100%;
+	background-color: white;
+
+}
+
+.header {
+	background-image: url(polygons.png);
+	width: 75%;
+	margin: auto;
+	text-align: center;
+	color: white;
+	padding: 10%;
+	box-sizing: border-box;
+} 
+
+body {
+	margin: 0;
+}
+
+.header a {
+	color: black;
+	background-color: white;
+	text-decoration: none;
+	padding: 7px;
+	border-radius: 3px;
+}
+
+.header a:hover {
+	background-color: green;
+}
+
+.menu a:hover {
+	color: grey;
+	font-size: 20px;
+}
+
+.flex {
+	display: flex;
+	align-items: center;
+}
+
+.text {
+	width: 50%;
+}
+
+.flex img {
+	width: 50%;
+}
+
+.aboutcompani {
+	width: 75%;
+	margin: auto;
+}
+
+.aboutcompani h2 {
+	text-align: center;
+}
+
+.team {
+	display: flex;
+}
+
+.team img {
+	width: 100%;
+}
+
+ h2 {
+	text-align: center;
+}
+
+.lis {
+	text-align: center;
+}
+
+.team div {
+	box-shadow: 0 0 10px grey;
+	margin: 0 1%;
+	padding: 5px;
+	width: 100%;
+}
+
+.profession {
+	color: grey;
+}
+
+.team a {
+	text-decoration: none;
+	color: white;
+	background-color: #000080;
+	padding: 5px; 
+	border-radius: 5px;
+	display: block;
+	text-align: center;
+}
+
+
+
+.dengi {
+	background-color: grey;
+	padding: 5%;
+
+}
+
+.dengi h2 {
+	color: white;
+}
+
+.dengi2 {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+ul {
+	background-color: white;
+	list-style-type: none; 
+	padding: 0;
+	width: 30%;
+}
+
+li {
+	padding: 5%;
+	text-align: center;
+	border: darkgrey 1px solid;
+}
+
+.baseh {
+	background-color: black;
+	color: white;
+	padding: 7%;
+}
+
+.proh {
+	background-color: #1a62b7;
+	color: white;
+	padding: 11%;
+}
+
+span {
+	font-weight: bold;
+}
+
+.prise {
+	color: black;
+	font-weight: bold;
+}
+
+.white {
+	color: white;
+}
+
+.paint {
+	color: grey;
+}
+
+.team_conteiner {
+	padding: 2%;
+}
+
+.dengi2 a {
+	text-decoration: none;
+	color: white;
+	background-color: black;
+	border-radius: 5px;
+	padding: 6px;
+}
+
+.dengi2 a:hover {
+	background-color: darkgrey;
+}
+
+ul .grey {
+	background-color: lightgrey;
+}
+
+.contacts {
+	background-color: lightgrey;
+	padding: 3%;
+}
+
+.cantacts h2 {
+	color: black;
+	text-align: center;
+	margin: 0 10px;
+}
+
+
+.img {
+	display: flex;
+	margin-bottom: 10px;
+}
+
+.img p {
+	margin: 0 10px;
+}
+
+input {
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 5px;
+	border: none;
+	outline: none;
+}
+
+button {
+	margin: auto;
+	display: block;
+	padding: 10px;
+	color: white;
+	background-color: black;
+	border-radius: 10px;
+	border: none;
+}
+
+button:hover {
+	background-color: grey;
+}

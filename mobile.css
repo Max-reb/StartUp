@@ -1,0 +1,60 @@
+@media (max-width: 600px) {
+	.menu {
+		position: static;
+		padding: 0px;
+	}
+
+	.menu a {
+		display: block;
+		border-bottom: grey solid 1px;
+		padding: 3px;
+		width: 74%;
+		margin: 10px auto;
+	}
+
+	.flex {
+		display: block;
+	}
+
+	.text  {
+		width: 100%;
+		text-align: justify;
+	}
+
+	.flex img {
+		width: 100%;
+	}
+
+	.team {
+		display: block;
+		padding: 0;
+	}
+
+	.team div {
+		width: 90%;
+		margin: 10px auto;
+	}
+
+	.dengi2 {
+		display: block;
+	}
+
+	.base {
+		width: 95%;
+		margin: auto;
+	}
+
+	.premium {
+		width: 95%;
+		margin: auto;
+	}
+
+	.pro {
+		width: 100%;
+	}
+
+	input {
+		width: 95%;
+		margin: 5px auto;
+	}
+}
